@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-12T18:04:32 IST" name="Suite" finished-at="2023-11-12T18:04:41 IST" duration-ms="8789">
+    <groups>
+    </groups>
+    <test started-at="2023-11-12T18:04:32 IST" name="Test" finished-at="2023-11-12T18:04:41 IST" duration-ms="8789">
+      <class name="TestCases.Problem_4">
+        <test-method signature="verifyLinks()[pri:1, instance:TestCases.Problem_4@2e377400]" started-at="2023-11-12T18:04:33 IST" name="verifyLinks" finished-at="2023-11-12T18:04:41 IST" duration-ms="8003" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLinks -->
+      </class> <!-- TestCases.Problem_4 -->
+      <class name="TestCases.Problem_3">
+        <test-method is-config="true" signature="initialize()[pri:0, instance:TestCases.Problem_3@4c39bec8]" started-at="2023-11-12T18:04:27 IST" name="initialize" finished-at="2023-11-12T18:04:32 IST" duration-ms="5166" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method signature="verifyLogo()[pri:1, instance:TestCases.Problem_3@4c39bec8]" started-at="2023-11-12T18:04:33 IST" name="verifyLogo" finished-at="2023-11-12T18:04:33 IST" duration-ms="566" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogo -->
+        <test-method signature="RequestDemo()[pri:2, instance:TestCases.Problem_3@4c39bec8]" started-at="2023-11-12T18:04:33 IST" name="RequestDemo" finished-at="2023-11-12T18:04:33 IST" duration-ms="133" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RequestDemo -->
+      </class> <!-- TestCases.Problem_3 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
